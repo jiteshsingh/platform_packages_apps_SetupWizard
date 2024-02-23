@@ -1,3 +1,7 @@
+_Note: This project was adapted and included in the GrapheneOS project.  
+Further developments will happen at https://github.com/GrapheneOS/platform_packages_apps_SetupWizard2  
+This repository is being archived and remains read-only now._
+
 # Setup Wizard for GrapheneOS
 
 Light mode     | Dark mode 
